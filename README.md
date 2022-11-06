@@ -1,8 +1,8 @@
 <br />
 <div align="center" id="readme-top">
 
-  <p align="center">
-  React-based E-commerce Project
+  <h1 align="center" style="color:#1d64ff" > Toys Shop || E-commerce Project</h1>
+
     <br />
 </div>
 
