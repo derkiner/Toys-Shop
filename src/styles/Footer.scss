@@ -1,0 +1,19 @@
+@import "./colors";
+
+.footer {
+  width: 100%;
+  height: 35vh;
+  background-color: $cream-color;
+  display: flex;
+
+  p {
+    padding: 2rem;
+    color: $gray-color;
+    margin-bottom: 0;
+
+    span {
+      margin-top: 1rem;
+      display: block;
+    }
+  }
+}
