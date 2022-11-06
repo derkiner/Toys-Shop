@@ -1,7 +1,7 @@
 <br />
 <div align="center" id="readme-top">
 
-  <h1 align="center" style="color:#1d64ff" > Toys Shop </h1>
+  <h1 align="center" style="color:#1d64ff" > E-commerce Project - Toys Shop </h1>
 
 </div>
 
