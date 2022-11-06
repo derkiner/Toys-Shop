@@ -35,7 +35,6 @@ _Below is an example of how you can instruct your audience on installing and set
 ## Project Views
 ![image](https://user-images.githubusercontent.com/90147636/200171962-145859dd-1191-4b67-be44-71bf30fb6ac8.png)
 <br>
-<br>
 ![image](https://user-images.githubusercontent.com/90147636/200171975-d451b475-afd2-41c5-b5a5-1be1a97ddf8b.png)
 <br>
 <br>
